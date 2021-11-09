@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  iamvarshith_dev:
+  staticwebsite_aws:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
